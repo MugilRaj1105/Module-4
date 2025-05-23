@@ -91,7 +91,7 @@ To write a Python program that sorts a dictionary's:
 ---
 
 ## 🧪Program
-
+```
 def dictionairy():  
  key_value ={}   
  key_value[2] = 56      
@@ -108,7 +108,7 @@ def main():
     
     dictionairy()           
 
-
+```
 ## Sample Output
 ![image](https://github.com/user-attachments/assets/f19f2bd9-a6f6-4aa4-a418-0d570459faa2)
 
@@ -164,7 +164,7 @@ To write a Python program that counts the number of lines in a text file story.t
 4. After processing all lines, print the count value, which represents the number of lines that do not start with 'T'.
 
 ## 🧾 Program
-
+```
 def returnSum(myDict):
     final=0
     for i in myDict.values():
@@ -174,7 +174,7 @@ def returnSum(myDict):
 
 myDict = {'a': 100, 'b': 200, 'c': 300}
 print("Sum :",returnSum(myDict))
-
+```
 
 ## Output
 ![Screenshot (148)](https://github.com/user-attachments/assets/584ecff1-9dfb-4670-b1c8-ee354a85ed3d)
